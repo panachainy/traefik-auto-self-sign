@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go-boilerplate/cmd/app"
 	"log"
+	"panachainy/traefik-auto-self-sign/cmd/app"
 
 	"github.com/gofiber/fiber/v2"
 )

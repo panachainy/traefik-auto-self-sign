@@ -1,7 +1,7 @@
 package app
 
 import (
-	"go-boilerplate/cmd/config"
+	"panachainy/traefik-auto-self-sign/cmd/config"
 	"sync"
 
 	"github.com/gofiber/fiber/v2"

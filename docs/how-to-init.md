@@ -3,7 +3,7 @@
 ## Initial new golang package
 
 ```sh
-go mod init go-boilerplate
+go mod init panachainy/traefik-auto-self-sign
 ```
 
 ## Install dependency

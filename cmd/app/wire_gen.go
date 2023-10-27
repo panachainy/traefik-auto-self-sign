@@ -7,8 +7,8 @@
 package app
 
 import (
-	"go-boilerplate/cmd/config"
-	"go-boilerplate/cmd/log"
+	"panachainy/traefik-auto-self-sign/cmd/config"
+	"panachainy/traefik-auto-self-sign/cmd/log"
 )
 
 // Injectors from wire.go:

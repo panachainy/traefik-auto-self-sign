@@ -1,10 +1,11 @@
-module go-boilerplate
+module panachainy/traefik-auto-self-sign
 
 go 1.20
 
 require (
 	github.com/gofiber/fiber/v2 v2.47.0
 	github.com/google/wire v0.5.0
+	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/viper v1.16.0
 )
 
@@ -26,7 +27,6 @@ require (
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/savsgio/dictpool v0.0.0-20221023140959-7bf2e61cea94 // indirect
 	github.com/savsgio/gotils v0.0.0-20230208104028-c358bd845dee // indirect
-	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/spf13/afero v1.9.5 // indirect
 	github.com/spf13/cast v1.5.1 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect

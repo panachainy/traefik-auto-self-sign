@@ -1,4 +1,4 @@
-# go-boilerplate
+# panachainy/traefik-auto-self-sign
 
 ## Development
 
@@ -9,11 +9,11 @@ air
 ## Docker
 
 ```sh
-docker build -t go-boilerplate .
+docker build -t panachainy/traefik-auto-self-sign .
 ```
 
 ```sh
-docker run -p 8080:8080 go-boilerplate
+docker run -p 8080:8080 panachainy/traefik-auto-self-sign
 ```
 
 ## References
