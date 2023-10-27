@@ -1,4 +1,4 @@
-# panachainy/traefik-auto-self-sign
+# traefik-auto-self-sign
 
 ## Development
 
